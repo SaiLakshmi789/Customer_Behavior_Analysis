@@ -1,7 +1,7 @@
 # Customer_Behavior_Analysis
 Data Analytics project showcasing customer behavior analysis using python, sql and power Bi
-📊 Data Analytics Project – End-to-End Workflow
-📁 Overview
+📊 #Data Analytics Project – End-to-End Workflow
+📁 #Overview
 
 This project demonstrates a complete data analytics lifecycle — from data extraction and cleaning to SQL querying, visualization, and reporting. The goal was to analyze the dataset, derive insights using Python and SQL, and build a Power BI dashboard supported by a professional report and a presentation (Gamma AI).
 
