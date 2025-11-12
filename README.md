@@ -161,17 +161,7 @@ Python 3.8+
 MySQL Server + Workbench
 
 Power BI Desktop
-
-Required Python packages (see requirements.txt)
-
-1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Run the Python Notebook / Script
+Install and import required packages
 
 Navigate to the notebook:
 
@@ -180,7 +170,7 @@ jupyter notebook
 
 or run:
 
-python analysis.py
+.ipynb file
 
 4. Load Data into MySQL
 
